@@ -1,11 +1,11 @@
 
-# student-course-registration-api
+# Course-Registration
 
-####  Student Course registration api used to add, delete and register students and courses and vice versa
+####  Course registration  used to add, delete and register students and courses and vice versa
 
 ## Getting Started
 
-Please follow the below steps to setup and run student-course-registration-api
+Please follow the below steps to setup and run course-registration
 
 ### Prerequisites
 
